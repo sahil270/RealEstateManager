@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.IntroActivity"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="@dimen/add_screen_place_image_size"
+            android:layout_height="@dimen/add_screen_place_image_size"
+            android:layout_marginTop="@dimen/add_screen_place_image_marginTop"
+            android:padding="@dimen/add_screen_place_image_padding"
+            android:scaleType="centerCrop"
+            android:src="@drawable/splash_logo" />
+
+        <Button
+            android:id="@+id/btn_log_in"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/add_screen_btn_save_marginTop"
+            android:paddingTop="@dimen/add_screen_btn_save_paddingTopBottom"
+            android:paddingBottom="@dimen/add_screen_btn_save_paddingTopBottom"
+            android:text="@string/log_in"
+            android:background="@drawable/shape_button_rounded"
+            android:textColor="@color/white_color"
+            android:textSize="@dimen/Splash_font_size" />
+
+        <Button
+            android:id="@+id/btn_sign_up"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/add_screen_btn_save_marginTop"
+            android:paddingTop="@dimen/add_screen_btn_save_paddingTopBottom"
+            android:paddingBottom="@dimen/add_screen_btn_save_paddingTopBottom"
+            android:text="@string/sign_up"
+            android:background="@drawable/shape_button_rounded"
+            android:textColor="@color/white_color"
+            android:textSize="@dimen/Splash_font_size" />
+
+    </LinearLayout>

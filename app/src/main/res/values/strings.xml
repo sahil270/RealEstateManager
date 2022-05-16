@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Real Estate Manager</string>
+
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+
+    <string name="note_text_no_places_found_yet_kindly_add_one">No Places Found Yet. Contact Administrators.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Enter your name, email id and password, to register with us.</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+    <string name="title_activity_splash2">SplashActivity2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="please_click_back_again_to_exit">Please Click back again to exit</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nav_my_profile">My Profile</string>
+    <string name="sign_out">Log out</string>
+    <string name="no_places_are_available">No Places Available</string>
+    <string name="default_notification_channel_id">RealEstateManager_Default_Notification_Channel_id</string>
+    <string name="description">Description</string>
+    <string name="add_place">Add Place</string>
+</resources>
